@@ -2,15 +2,15 @@
 
 
 ## **1. Methodology**
-## Export your Whatsapp Chat and download and upload over the application
-## Then the uploaded file is preprocessed to find user_name, user_message, date details
-## DataFrame is produced and further analysis is done on it
-## We get TOP STATISTICS---> Number of Words,messages, media shares, links shared
-## Monthly and Daily analysis plot
-## Most Busy day and month 
-## Wordcloud of common words used, emoji analysis etc..
-## All the above data is analysed for a particular user 
-## You can upload chat with single person, group chat(where you can select particular person)
+#### Export your Whatsapp Chat and download and upload over the application
+#### Then the uploaded file is preprocessed to find user_name, user_message, date details
+#### DataFrame is produced and further analysis is done on it
+#### We get TOP STATISTICS---> Number of Words,messages, media shares, links shared
+#### Monthly and Daily analysis plot
+#### Most Busy day and month 
+#### Wordcloud of common words used, emoji analysis etc..
+#### All the above data is analysed for a particular user 
+#### You can upload chat with single person, group chat(where you can select particular person)
 
 
 
